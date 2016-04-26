@@ -42,7 +42,7 @@ Set colorB in the mesh command.
 mesh.addColor(colorB);
 ```
 
-![Image of Yaktocat](https://lh3.googleusercontent.com/Yj8jw11Zes30g54BuIE11THI_M4mfvv2hRuuUFuo06afC7glRK2hKeM6aEe_1qH4Z-FEcg=s0)
+![Image of Yaktocat](https://github.com/emres13/emresardogancode2/blob/master/Ana%26Emre%20IMG%20Processing%20/Tutorial/basic%20yellow.png)
 
 **Rainbow Colors**
 
@@ -80,23 +80,23 @@ To alter how much of the background is visible vs invisible alter these lines in
 ```
 you can have varied depth detection, detecting a whole room or just a figure nearby.
 
-![](https://lh3.googleusercontent.com/7eTHIPz4mO-z-ym0owVq1i7caBDr25Cnw9JiFInrrnTUlLGqUhW7KBtI0_vboWtQNIFKjw=s0)
+![](https://github.com/emres13/emresardogancode2/blob/master/Ana%26Emre%20IMG%20Processing%20/Tutorial/Screen%20Shot%202016-04-25%20at%2010.31.21%20AM.png)
 
-![](https://lh4.googleusercontent.com/j25ID3ppusZC8wBj7qVURZMT7xz3d4NLJtT1jZc6wHv9CeCGXO_f39rYMWnOSj41Cygeqg=s0)
+![](https://github.com/emres13/emresardogancode2/blob/master/Ana%26Emre%20IMG%20Processing%20/Tutorial/Screen%20Shot%202016-04-25%20at%2010.26.52%20AM.png)
 
 **Pixel Size**
 
 By altering the argument value glPointSize(); in void::DrawPointCloud() you can change the render size of the pixels. Playing with the pixel size was fun. 
 Check out this [youtube vid](https://youtu.be/3EhKfEG2Mj0) vid of us joking around with big pixelated noses. 
 
-![](https://lh4.googleusercontent.com/UMyFzb9oxBrpEdkJWEP3QOkwO56REcjtP1cor4E3wUXcaZHwdI9lMiLw_z9WBSBJhN-MIA=s0)
+![](https://github.com/emres13/emresardogancode2/blob/master/Ana%26Emre%20IMG%20Processing%20/Tutorial/blob.png)
 
 Here's a sphinx imitation:
 
-![](https://lh5.googleusercontent.com/1QVfWpA-1RfMCssrLbpYJufLGrJ0OJuG1wCKMYRiqQsqWRu0BZS1eFNbQONzjDRkVBPkcw=w1179-h498)
+![](https://github.com/emres13/emresardogancode2/blob/master/Ana%26Emre%20IMG%20Processing%20/Tutorial/Screen%20Shot%202016-04-25%20at%2010.38.18%20AM.png)
 
 & a close up
 
-![](https://lh3.googleusercontent.com/Xx7ho3e9iR1kgnNf_6rF84SFmsdsUFyxAt-0ixLsntxNNJ4DzNbQmHaRxZ4jq-NlaZio7g=s0)
+![](https://github.com/emres13/emresardogancode2/blob/master/Ana%26Emre%20IMG%20Processing%20/Tutorial/blop.png)
 
 
