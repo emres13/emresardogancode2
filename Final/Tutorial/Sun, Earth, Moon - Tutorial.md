@@ -177,12 +177,16 @@ In the last part of our code we are adding two more spheres and adding two more 
 
 ##What to Add
 
-I was trying to add stars to the 3d space however, I couldn't accomplish it.
+I was trying to add stars to the 3d space however, I couldn't accomplish it. This is the huge image I tried to add.
 
 ![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/starField.png)
 
 However, if camera is not in use and you are not looking forward to go around the spheres, you can use a wallpaper in stable 3D. This is a good picture to use.
 
 ![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/galaxy.jpg)
+
+##To Go Further
+
+Fire element can be added on the Sun, and air element can be added on the Earth, as a second texture. Alpha blending texture technique can be used. 
 
 
