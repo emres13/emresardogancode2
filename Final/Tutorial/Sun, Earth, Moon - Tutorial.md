@@ -175,5 +175,14 @@ First of all, with ofTranslate funtion we are declaring origin of the sphere, an
 ```
 In the last part of our code we are adding two more spheres and adding two more textures which are the textures of The Earth and The Moon. Values are worth changing and playing around with you can create differently located solar systems, a unique one. 
 
+##What to Add
 
- 
+I was trying to add stars to the 3d space however, I couldn't accomplish it.
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/starField.png)
+
+However, if camera is not in use and you are not looking forward to go around the spheres, you can use a wallpaper in stable 3D. This is a good picture to use.
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/galaxy.jpg)
+
+
