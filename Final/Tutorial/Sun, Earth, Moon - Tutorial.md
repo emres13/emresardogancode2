@@ -9,6 +9,8 @@ Parsons School of Design
 Code 2 - openFrameworks
 <b> </b>
 
+[https://github.com/emres13/emresardogancode2](https://github.com/emres13/emresardogancode2)
+
 This is a creative coding sketch which shows circle of life by using texture in a 3D space. The sketch is also designed to satisfy visual requirements of a audio narrative project based on an emotional journey. 
 
 
