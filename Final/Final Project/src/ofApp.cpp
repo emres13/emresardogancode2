@@ -6,8 +6,10 @@ void ofApp::setup(){
     ofBackground(0);
     ofSetFrameRate(30);
     ofSetVerticalSync(true);
-    
-    
+    soundPlayer.loadSound("confnumb.mp3");
+
+    soundPlayer.play();
+
     glEnable(GL_DEPTH_TEST); //enable depth comparisons and update the depth buffer
     ofDisableArbTex(); //needed for textures to work with gluSphere
    
@@ -35,6 +37,7 @@ void ofApp::update(){
 void ofApp::draw(){
     
     ofPushMatrix();
+
 
     cam.begin();
     

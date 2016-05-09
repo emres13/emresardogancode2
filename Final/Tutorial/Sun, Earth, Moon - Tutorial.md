@@ -13,11 +13,19 @@ Code 2 - openFrameworks
 
 This is a creative coding sketch which shows circle of life by using texture in a 3D space. The sketch is also designed to satisfy visual requirements of a audio narrative project based on an emotional journey. 
 
+## Audio Narrative Project
+
+
+
+
+
 
 
 ## References
 
 Thanks to **Rick Companje** for his [textured sphere example](https://sites.google.com/site/ofauckland/examples/12-textured-sphere-example). The code is based on the example.
+
+The song is **[Comfartably Numb by Pink Floyd](https://itunes.apple.com/ie/music-video/comfortably-numb-live-in-berlin/id427808195)** can be purchased over iTunes.
 
 ##Progress and Prototyping 
 
@@ -59,7 +67,15 @@ These are the textures that are going to be covering spheres that we will be dra
 
 ![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/sun.jpg)
 
+##Sound
 
+**ofApp.h**
+
+```
+    soundPlayer.loadSound("confnumb.mp3");
+
+    soundPlayer.play();
+```
 
 ##Code
 

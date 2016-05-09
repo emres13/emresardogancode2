@@ -29,7 +29,8 @@ class ofApp : public ofBaseApp{
     ofImage earth;
     ofImage moon;
     ofEasyCam cam;
-    
+    ofSoundPlayer soundPlayer;
+;
    
     
     GLUquadricObj *quadric;
