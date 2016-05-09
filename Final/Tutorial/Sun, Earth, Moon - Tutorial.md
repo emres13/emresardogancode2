@@ -35,7 +35,9 @@ Secondly, I decided to move forward and play with the example sketch by **Rick C
 
 **Final**
 
+The final look is made by adding two more spheres to the system. I added the Sun and the Moon. Also their rotation routine is also inspired from real life.
 
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/Final%20look.png)
 
 
 
