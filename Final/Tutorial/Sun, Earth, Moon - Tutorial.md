@@ -1,18 +1,32 @@
 # Sun, Earth, Moon : Tutorial
 
-Emre Sardogan
-<b> </b>
+by 
+```Emre Sardogan
+```
 
-Parsons School of Design
-<b> </b>
+**Parsons School of Design;**
 
+```
 Code 2 - openFrameworks
-<b> </b>
 
-Studio 2 - Lab 2 - BFA_DT
-<b> </b>
+Studio 2 - BFA_DT
 
-[https://github.com/emres13/emresardogancode2](https://github.com/emres13/emresardogancode2)
+Lab 2 - BFA_DT
+```
+
+**Special Thanks To;**
+
+```
+Nicole Messier 
+
+Ayodamola Okunseinde
+
+Michael Wolf
+```
+**GitHub Repo;**
+```
+https://github.com/emres13/emresardogancode2
+```
 
 This is a creative coding sketch which shows circle of life by using texture in a 3D space. The sketch is also designed to satisfy visual requirements of a audio narrative project based on an emotional journey. 
 
