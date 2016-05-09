@@ -9,13 +9,16 @@ Parsons School of Design
 Code 2 - openFrameworks
 <b> </b>
 
+Studio 2 - Lab 2 - BFA_DT
+<b> </b>
+
 [https://github.com/emres13/emresardogancode2](https://github.com/emres13/emresardogancode2)
 
 This is a creative coding sketch which shows circle of life by using texture in a 3D space. The sketch is also designed to satisfy visual requirements of a audio narrative project based on an emotional journey. 
 
 ## Audio Narrative Project
 
-This is the helmet I build for my imaginary space journey, representing the lack of support that can be faced under an unknown culture. 
+This is the helmet I build for my imaginary space journey.
 
 
 ![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/helmet1.jpg)
