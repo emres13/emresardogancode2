@@ -4,7 +4,7 @@
 void ofApp::setup(){
   
     ofBackground(0);
-    ofSetFrameRate(30);
+    ofSetFrameRate(20);
     ofSetVerticalSync(true);
     soundPlayer.loadSound("confnumb.mp3");
 
