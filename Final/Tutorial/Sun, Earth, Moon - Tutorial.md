@@ -19,6 +19,19 @@ Thanks to **Rick Companje** for his [textured sphere example](https://sites.goog
 
 ##Progress and Prototyping 
 
+The early stages of the code was just based on understanding the movement and the the drawing of a cirlce in a 2D space.
+
+**Prototype #1**
+
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/prototype%231.png)
+
+
+Secondly, I decided to move forward and play with the example sketch by **Rick Companje**, Additionally to his idea, I added easy camera and lighting.  
+
+**Prototype #2**
+
+![](
 
 
 ##Textures

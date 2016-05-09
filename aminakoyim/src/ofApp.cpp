@@ -52,7 +52,7 @@ void ofApp::draw(){
     
     //Sun bind and draw texture
     sun.getTextureReference().bind();
-   // gluSphere(quadric, 500, 100, 100);
+    gluSphere(quadric, 500, 100, 100);
     
     
     //Earth change origin to center
@@ -73,7 +73,7 @@ void ofApp::draw(){
     ofRotateX(-90);
     
     moon.getTextureReference().bind();
-  //  gluSphere(quadric, 20, 200, 200);
+    gluSphere(quadric, 20, 200, 200);
     
     ofPopMatrix();
 
