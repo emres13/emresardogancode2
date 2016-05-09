@@ -15,6 +15,14 @@ This is a creative coding sketch which shows circle of life by using texture in 
 
 ## Audio Narrative Project
 
+This is the helmet I build for my imaginary space journey, representing the lack of support that can be faced under an unknown culture. 
+
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/helmet1.jpg)
+
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/helmet2.jpg)
+
 
 
 
@@ -76,6 +84,9 @@ These are the textures that are going to be covering spheres that we will be dra
 
     soundPlayer.play();
 ```
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/thewall.jpg)
+
 
 ##Code
 
