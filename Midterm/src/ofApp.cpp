@@ -3,11 +3,10 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    img.loadImage("sunset1.jpg");
     ofSetBackgroundAuto(false);
     ofSetFrameRate(45);
     ofEnableAlphaBlending();
-    ofBackground(255,140,0);
+    ofBackground(255,255,255);
 }
 
 //--------------------------------------------------------------
@@ -49,7 +48,4 @@ void ofApp::createParticle() {
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-    if (key=='a') ofEnableSmoothing();
-    if (key=='s') ofDisableSmoothing();
-    if (key==' ') img.draw(0,0);
-}
+    }

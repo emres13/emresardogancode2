@@ -9,7 +9,7 @@ void Particle::setup() {
 
 void Particle::draw() {
     ofSetColor(color,ofMap(age,10,45,70,10,true));
-    ofDrawLine(oldpos,pos);
+    ofdCircle(oldpos,pos,1/2);
 }
 
 void Particle::update() {
