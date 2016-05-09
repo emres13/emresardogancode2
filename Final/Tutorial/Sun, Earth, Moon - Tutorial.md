@@ -31,7 +31,12 @@ Secondly, I decided to move forward and play with the example sketch by **Rick C
 
 **Prototype #2**
 
-![](
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/prototype%232.png)
+
+**Final**
+
+
+
 
 
 ##Textures
