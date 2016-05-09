@@ -18,13 +18,20 @@ This is a creative coding sketch which shows circle of life by using texture in 
 Thanks to **Rick Companje** for his [textured sphere example](https://sites.google.com/site/ofauckland/examples/12-textured-sphere-example). The code is based on the example.
 
 ##Textures
+These are the textures that are going to be covering spheres that we will be drawing in our sketch.
+
+**Moon**
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/moon.png)
+
+**Earth**
+
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/earth.jpg)
 
 
+**Sun**
 
-
-
-
-
+![](https://github.com/emres13/emresardogancode2/blob/master/Final/Tutorial/Images/sun.jpg)
 
 
 
