@@ -1,7 +1,10 @@
 # Sun, Earth, Moon : Tutorial
 
 by 
-```Emre Sardogan
+
+```
+Emre Sardogan
+
 ```
 
 **Parsons School of Design;**
